@@ -14,7 +14,7 @@ candace = Cat()
 # display all information with each object
 
 tigger.fluffy = False
-canda
+candace.fluffy = False
 print(tigger.fluffy)
 
 
