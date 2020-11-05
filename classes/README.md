@@ -3,10 +3,20 @@
 
 # There are four pillar:
 * Inheritance (mostly used)
-* Encapsulation
-* Abstraction
-* Polymorphism
+    - **Eliminates redundant code**
+    - We can use all functions and variables from parent class
 
+* Encapsulation
+    - **Reduce complexity and increase reusability**
+    -
+* Abstraction
+    - **Reduce complexity and isolate impact of changes**
+
+
+* Polymorphism - poly (many) morphism (form)
+    - **Refractor code or case statements**
+    - Allows us to change attributes/variables
+    
 ## What are classes and why
 * Class is the main factor that is
 * we can create multiple objects within a class that is used to implement any of the pillars.
